@@ -7,7 +7,7 @@ public class _01Metodos {
         System.out.println(frasr.toLowerCase());
         System.out.println("La posicion en donde comiuenza la palabra ejemplo : "+ frasr.indexOf("ejemplo"));
         System.out.println("La posicion en donde comiuenza la o : "+ frasr.lastIndexOf("o"));
-        System.out.println(frasr.equals(palabra));
+       System.out.println(frasr.equals(palabra));
         System.out.println(palabra.equalsIgnoreCase(palabra2));
 
 

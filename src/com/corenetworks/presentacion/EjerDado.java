@@ -1,6 +1,7 @@
 package com.corenetworks.presentacion;
 
 import java.util.Random;
+import java.util.Scanner;
 
 public class EjerDado {
     public static void main(String[] args) {
@@ -28,6 +29,10 @@ for (int d = 0; d < 6;d++ ){
 
             System.out.println(d+1 +"="+cara[6]--);
         }
+//Pedir por consola una frase
+//Contar las vocales de la frase
+
+
 
     }
 
